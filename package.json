@@ -1,5 +1,5 @@
 {
-  "homepage":"https://HrithikBajari.github.io/Notes_App/",
+  "homepage": "https://HrithikBajari.github.io/Note-App/",
   "name": "notes_app",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
